@@ -6,6 +6,5 @@ checkedValues.map((value,index)=>{
     truthyValues+=singleValue:
     falsyValues+=singleValue;
 })
-//commento;
 console.log('truthyValues: ' + truthyValues);
 console.log('falsyValues: ' + falsyValues);
